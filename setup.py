@@ -18,6 +18,7 @@ requirements = [
     'setuptools',
     'dynaconf~=2.0',
     'whitenoise',
+    'packaging',
 ]
 
 setup(
